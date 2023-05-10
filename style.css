@@ -1,0 +1,56 @@
+.octo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    height: 200px;
+}
+
+h1 {
+    font-size: 75px;
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+}
+
+h5 span {
+    color: aqua;
+    text-decoration: underline;
+
+}
+
+.row1 {
+    height: 200px;
+    width: 800px;
+    background-color: blue;
+    margin: 20px;
+    padding: 25px;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.row2 {
+    height: 200px;
+    width: 800px;
+    background-color: darkgreen;
+    margin: 20px;
+    padding: 25px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.row3 {
+    height: 200px;
+    width: 800px;
+    background-color: yellow;
+    margin: 20px;
+    padding: 25px;
+    display: flex;
+    justify-content: space-evenly;
+}
